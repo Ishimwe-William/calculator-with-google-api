@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "calculator-with-google-api",
+    "slug": "calculator-with-google-api",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "calculator-with-google-api"
+}
