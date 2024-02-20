@@ -1,4 +1,4 @@
-rootProject.name = 'calculatorwithgoogleapi'
+rootProject.name = 'calculator-with-google-api'
 
 dependencyResolutionManagement {
   versionCatalogs {

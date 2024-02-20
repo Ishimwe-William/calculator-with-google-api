@@ -5,7 +5,11 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.bunsen.calculatorwithgoogleapi"
+    }
   },
-  "name": "calculator-with-google-api"
+  "name": "calculator-with-google-api",
+  "scheme":"com.bunsen.calculatorwithgoogleapi"
 }
